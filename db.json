@@ -1,0 +1,199 @@
+{
+    "moradias": [
+        {
+          "MorId": 1,
+          "name": "Nova Morada",
+          "email": "contato@novamorada.com",
+          "QtdAloj": 30,
+          "value": "550,00",
+          "type": "Masculina",
+          "typeAloj": "Compartilhada",
+          "typeBath": "Compartilhado",
+          "area": "45",
+          "address": {
+            "street": "Rua Itaipú",
+            "num": "171",
+            "city": "Florianópolis",
+            "state": "SC",
+            "zipcode": "88034-540",
+            "geo": {
+              "lat": "-27.593103703871375",
+              "lng": "-48.495521575595525"
+            }
+          },
+          "phone": "+55 48 99765-9832",
+          "website": "www.novamorada.com",
+          "photo": [{
+            "albumId": 1,
+            "id": 1,
+            "title": "Fachada",
+            "url": "https://i.pinimg.com/236x/01/99/a3/0199a3edaba687701ab05895228a28bd--architecture-student-castles.jpg"
+          },
+          {
+            "albumId": 1,
+            "id": 2,
+            "title": "Interior",
+            "url": "https://i.pinimg.com/236x/62/25/bb/6225bb130cd2f0f162b6b68881a18a41.jpg"
+          }
+        ],
+          "description": "ashausdahdfua asduasdhfadfh haduadfhadf",
+          "information": " ahsuashasu hasuashas haushs hasua"
+        },
+        {
+          "MorId": 2,
+          "name": "Atenas Inn",
+          "email": "contato@atenasinn.com",
+          "QtdAloj": 20,
+          "value": "650,00",
+          "type": "Mista",
+          "typeAloj": "Individual",
+          "typeBath": "Individual",
+          "area": "10",
+          "address": {
+            "street": "Rua Alexandre Schlemm",
+            "num": "755",
+            "city": "Joinville",
+            "state": "SC",
+            "zipcode": "89202-181",
+            "geo": {
+              "lat": "-26.312296444872974",
+              "lng": "-48.848197460281106"
+            }
+          },
+          "phone": "+55 47 98765-7843",
+          "website": "www.atenasinn.com",
+          "photo": [{
+            "albumId": 1,
+            "id": 1,
+            "title": "Fachada",
+            "url": "https://i.pinimg.com/originals/aa/52/e7/aa52e7cc3f94f1ef80615708b9abeb29.jpg"
+          },
+          {
+            "albumId": 1,
+            "id": 2,
+            "title": "Interior",
+            "url": "https://i.pinimg.com/236x/62/25/bb/6225bb130cd2f0f162b6b68881a18a41.jpg"
+          }
+        ],
+          "description": "ashausdahdfua asduasdhfadfh haduadfhadf",
+          "information": " ahsuashasu hasuashas haushs hasua"
+        },
+        {
+          "MorId": 3,
+          "name": "Dorm Town",
+          "email": "contato@dormtown.com",
+          "QtdAloj": 30,
+          "value": "350,00",
+          "type": "Feminina",
+          "typeAloj": "Individual",
+          "typeBath": "Individual",
+          "area": "15",
+          "address": {
+            "street": "Av. Júlio D'Acia Barreto",
+            "num": "161",
+            "city": "Florianópolis",
+            "state": "SC",
+            "zipcode": "88040-520",
+            "geo": {
+              "lat": "-27.604977",
+              "lng": "-48.525897"
+            }
+          },
+          "phone": "+55 48 96754-5623",
+          "website": "www.dormtown.com",
+          "photo": [{
+            "albumId": 1,
+            "id": 1,
+            "title": "Fachada",
+            "url": "https://images.adsttc.com/media/images/5d80/cabd/284d/d194/ee00/01f2/newsletter/universidade-de-mpumalanga-gapp-architects-and-urban-designers.jpg?1568721586"
+          },
+          {
+            "albumId": 1,
+            "id": 2,
+            "title": "Interior",
+            "url": "https://i.pinimg.com/236x/62/25/bb/6225bb130cd2f0f162b6b68881a18a41.jpg"
+          }
+        ],
+          "description": "ashausdahdfua asduasdhfadfh haduadfhadf",
+          "information": " ahsuashasu hasuashas haushs hasua"
+        },
+        {
+          "MorId": 4,
+          "name": "Residência Acadêmica",
+          "email": "contato@acadresidencia.com",
+          "QtdAloj": 30,
+          "value": "450,00",
+          "type": "Mista",
+          "typeAloj": "Compartilhada",
+          "typeBath": "Compartilhado",
+          "area": "40",
+          "address": {
+            "street": "R. Henrique Bennertz",
+            "num": "396",
+            "city": "Blumenau",
+            "state": "SC",
+            "zipcode": "89053-220",
+            "geo": {
+              "lat": "-26.87925118010626",
+              "lng": "-49.08241548910435"
+            }
+          },
+          "phone": "+55 47 93453-6723",
+          "website": "www.acadresidencia.com",
+          "photo": [{
+            "albumId": 1,
+            "id": 1,
+            "title": "Fachada",
+            "url": "https://f.i.uol.com.br/fotografia/2020/04/02/15858468775e861a5d971f7_1585846877_3x2_md.jpg"
+          },
+          {
+            "albumId": 1,
+            "id": 2,
+            "title": "Interior",
+            "url": "https://i.pinimg.com/236x/62/25/bb/6225bb130cd2f0f162b6b68881a18a41.jpg"
+          }
+        ],
+          "description": "ashausdahdfua asduasdhfadfh haduadfhadf",
+          "information": " ahsuashasu hasuashas haushs hasua"
+        },
+        {
+          "MorId": 5,
+          "name": "Dormoon",
+          "email": "com@dormoon.com",
+          "QtdAloj": 25,
+          "value": "250,00",
+          "type": "Masculina",
+          "typeAloj": "Compartilhada",
+          "typeBath": "Compartilhado",
+          "area": "30",
+          "address": {
+            "street": "R. Paraíba",
+            "num": "397",
+            "city": "Lages",
+            "state": "SC",
+            "zipcode": "88509-130",
+            "geo": {
+              "lat": "-27.816649646335154",
+              "lng": "-50.31419043541419"
+            }
+          },
+          "phone": "+55 49 93424-6743",
+          "website": "www.dormoon.com",
+          "photo": [{
+            "albumId": 1,
+            "id": 1,
+            "title": "Fachada",
+            "url": "https://images.adsttc.com/media/images/5d80/c96e/284d/d194/ee00/01eb/medium_jpg/moradia-estudantil-lucien-cornil-a-plus-architecture.jpg?1568721251"
+          },
+          {
+            "albumId": 1,
+            "id": 2,
+            "title": "Interior",
+            "url": "https://i.pinimg.com/originals/d1/7c/77/d17c7785c0e799860bf8a4d92406a621.jpg"
+          }
+        ],
+          "description": "ashausdahdfua asduasdhfadfh haduadfhadf",
+          "information": " ahsuashasu hasuashas haushs hasua"
+        }
+        ]
+  }
